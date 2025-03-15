@@ -1,0 +1,17 @@
+{
+  "name": "telegram-calculator-app",
+  "version": "1.0.0",
+  "description": "A mini web app for Telegram that adds two numbers.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
